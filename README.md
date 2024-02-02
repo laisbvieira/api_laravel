@@ -7,13 +7,12 @@ Bem-vindo à API de Funcionários! Esta API foi construída com Laravel e fornec
 1.  **Clonar o Repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/api-funcionarios.git
+    git clone https://github.com/seu-usuario/api_laravel.git
     ```
 
 2.  **Instalar Dependências:**
 
     ```bash
-    cd api-funcionarios
     composer install
     ```
 
